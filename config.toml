@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "CF"
+title = "Finance site"
 
 
 _merge = "none"
